@@ -7,6 +7,10 @@
 
 > **Stop searching. Start conversing with your documents.**
 
+![Project 1](https://github.com/user-attachments/assets/d7a2918c-f837-4df3-8876-651f97522860)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_14tad14tad14tad1" src="https://github.com/user-attachments/assets/137c718c-dcf4-4639-bb7f-0544059bb48c" />
+
+
 ---
 
 ## 📖 Overview
