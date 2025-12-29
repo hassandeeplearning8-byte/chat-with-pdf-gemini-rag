@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain-community
+pypdf
+unstructured
+langchain-chroma
+langchain-google-genai
+
+
+# for installing write pip install -r requirement.txt
